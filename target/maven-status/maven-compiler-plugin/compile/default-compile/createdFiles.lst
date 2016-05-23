@@ -1,0 +1,9 @@
+ru/evseev/phrases/core/kafka/SimplePartitioner.class
+ru/evseev/phrases/core/SentenceProcessor$1.class
+ru/evseev/phrases/FilesProcessor.class
+ru/evseev/phrases/PhrasesApplication.class
+ru/evseev/phrases/FilesProcessor$Sender.class
+ru/evseev/phrases/health/SimpleHealthCheck.class
+ru/evseev/phrases/core/kafka/KafkaCons.class
+ru/evseev/phrases/FilesProcessor$Result.class
+ru/evseev/phrases/resources/PhrasesResource.class
